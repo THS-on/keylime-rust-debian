@@ -1,0 +1,10 @@
+crate_src_path = "./../rust-keylime"
+maintainer= "Keylime Authors"
+uploaders = [ "Thore Sommmer <mail@thson.de>" ]
+
+
+[source]
+vcs_git = "https://github.com/keylime/rust-keylime.git"
+vcs_browser = "https://github.com/keylime/rust-keylime"
+section = "admin"
+

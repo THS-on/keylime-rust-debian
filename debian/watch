@@ -1,0 +1,3 @@
+version=3
+opts="mode=git, gitmode=shallow" \
+https://github.com/keylime/rust-keylime.git refs/tags/v(.*) debian

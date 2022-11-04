@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: keylime_agent
+Upstream-Contact: Keylime Authors
+Source: https://github.com/keylime/rust-keylime
+
+Files: *
+Copyright: 2022 Keylime Authors
+License: Apache-2.0

@@ -1,0 +1,6 @@
+rust-keylime-agent (0.1.0-1) lernstick-11; urgency=medium
+
+  * Team upload.
+  * Package keylime_agent 0.1.0 from local source using debcargo 2.5.0
+
+ -- Thore Sommer <mail@thson.de>  Fri, 04 Nov 2022 10:20:39 +0200

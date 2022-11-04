@@ -1,0 +1,3 @@
+[submodule "rust-keylime"]
+	path = rust-keylime
+	url = https://github.com/keylime/rust-keylime.git
